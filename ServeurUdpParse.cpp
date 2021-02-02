@@ -58,6 +58,7 @@ int main()
 					c = a + b;
 					resultat = c;
 				j++;
+				i++;
 		}
 			
 		}
